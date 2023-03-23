@@ -97,9 +97,9 @@ body {
     }
      
 
-    .banner_fadebottom{
-        margin-top: 145px;
-        height: 7.4rem;
+    .banner--fadeBottom{
+        margin-top: -17px;
+        height: 3rem;
         background-image: linear-gradient(180deg, transparent, rgba(37,37,37,0.61),#111 )
 
     }
